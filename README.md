@@ -1,5 +1,5 @@
 # SLMETools
-The SLME method is outlined in the paper of Yu and Zunger, [PRL, 108](http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.108.068701)
+The SLME method is outlined in the paper of Yu and Zunger, [PRL, 108,068701](http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.108.068701)
 
 The following is a collection of some of the tools you need to calculate the SLME.
 
