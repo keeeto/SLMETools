@@ -1,0 +1,15 @@
+INCAR created by Atomic Simulation Environment
+ ENCUT = 500.000000
+ SIGMA = 0.010000
+ PREC = Normal
+ SYSTEM = Band structure
+ GGA = PS
+ NBANDS = 24
+ ISMEAR = 0
+ NSW = 0
+ ALGO = Nothing
+ NELM = 1
+ NELMIN = 1
+ LOPTICS = .TRUE.
+ NPAR = 1
+ ISTART = 1

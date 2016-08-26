@@ -1,0 +1,9 @@
+INCAR created by Atomic Simulation Environment
+ ENCUT = 500.000000
+ PREC = Normal
+ SYSTEM = Band structure
+ GGA = PS
+ NBANDS = 24
+ ISMEAR = -5
+ NSW = 0
+ NPAR = 1
