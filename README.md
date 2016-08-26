@@ -1,5 +1,5 @@
 # SLMETools
-The SLME method is outlined in the paper of Yu and Zunger, (PRL, 108)[http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.108.068701]
+The SLME method is outlined in the paper of Yu and Zunger, [PRL, 108](http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.108.068701)
 
 The following is a collection of some of the tools you need to calculate the SLME.
 
@@ -15,4 +15,4 @@ The following is a collection of some of the tools you need to calculate the SLM
 * Now run the SLME code: `python calc_slme.py DIEL E_g^fund E_g^allowed 0.1`
 
 
-NB the optics processing is available from the (VASP site)[http://www.freeware.vasp.de/VASP/optics/]
+NB the optics processing is available from the [VASP site](http://www.freeware.vasp.de/VASP/optics/)
