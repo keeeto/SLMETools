@@ -1,3 +1,7 @@
+# Not supported
+
+Please not I do not maintain this code any longer, nor do I have access to the `optics_5.4.1` code. If you do not already have that code then it is unlikely you can use this tool.
+
 # SLMETools
 The SLME method is outlined in the paper of Yu and Zunger, [PRL, 108,068701](http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.108.068701)
 
